@@ -14,8 +14,7 @@ import org.asteriskjava.manager.TimeoutException;
 import org.asteriskjava.manager.action.StatusAction;
 import org.asteriskjava.manager.event.ManagerEvent;
 
-public class TestListener implements ManagerEventListener
-{
+public class TestListener implements ManagerEventListener {
     private ManagerConnection managerConnection;
 
     public TestListener() throws IOException
