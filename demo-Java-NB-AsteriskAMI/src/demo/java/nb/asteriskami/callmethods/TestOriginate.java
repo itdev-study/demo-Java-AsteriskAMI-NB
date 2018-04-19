@@ -1,5 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
+ * Suorce from https://asterisk-java.org/tutorial/
  */
 package demo.java.nb.asteriskami.callmethods;
 
